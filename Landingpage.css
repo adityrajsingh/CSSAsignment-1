@@ -104,8 +104,8 @@ White: #ffffff */
 }
 
 #downarrow{
-    height:40px;
-   transform:translatey(15px) translatex(30px);
+    height:60px;
+   transform:translatey(19px) translatex(30px);
 }
 
 #checkbtn{
